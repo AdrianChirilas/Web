@@ -1,0 +1,100 @@
+# Web<!doctype html>
+
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Poze</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	
+</head>
+<body>
+	<div id="header">
+		<a href="acasa.html" class="logo">
+			<img src="images/logo.jpg" alt="">
+		</a>
+		<ul id="navigation">
+			<li>
+				<a href="acasa.html">acasa</a>
+			</li>
+			<li>
+				<a href="despre.html">despre</a>
+			</li>
+			<li class="selected">
+				<a href="poze.html">poze</a>
+			</li>
+			
+			<li>
+				<a href="contact.html">contact</a>
+			</li>
+			<li>
+				<a href="login.php">login</a>
+			</li>
+			<li>
+				<a href="register.php">register</a>
+			</li>
+		</ul>
+	</div>
+	<div id="body">
+		<h1><span>Poze</span></h1>
+		<ul class="gallery">
+			<li>
+				<a href="gallery-single-post.html">
+					<img src="images/teren.jpg" width="296" height="295">
+				</a>
+			</li>
+			<li>
+				<a href="gallery-single-post.html">
+					<img src="images/teren2.jpg" width="296" height="295">
+				</a>
+			</li>
+			<li>
+				<a href="gallery-single-post.html">
+					<img src="images/ter1.jpg" width="296" height="295">
+				</a>
+			</li>
+			<li>
+				<a href="gallery-single-post.html">
+					<img src="images/ter4.jpg" width="296" height="295">
+				</a>
+			</li>
+			<li>
+				<a href="gallery-single-post.html">
+					<img src="images/ter5.jpg" width="296" height="295">
+				</a>
+			</li>
+			<li>
+				<a href="gallery-single-post.html">
+					<img src="images/ter6.jpg" width="296" height="295">
+				</a>
+			</li>
+			<li>
+				<a href="gallery-single-post.html">
+					<img src="images/ter7.jpg" width="296" height="295">
+				</a>
+			</li>
+			<li>
+				<a href="gallery-single-post.html">
+					<img src="images/ter8.jpg" width="296" height="295">
+				</a>
+			</li>
+			<li>
+				<a href="gallery-single-post.html">
+					<img src="images/ter9.jpg" width="296" height="295">
+				</a>
+			</li>
+		</ul>
+	</div>
+	<div id="footer">
+		<div>
+			<p>&copy; Tenis Club Brasov</p>
+			<ul>
+				
+				
+				
+				
+			</ul>
+		</div>
+	</div>
+</body>
+</html>
