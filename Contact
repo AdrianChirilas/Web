@@ -1,0 +1,126 @@
+# Web<!doctype html>
+
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Contact</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="css/mobile.css" media="screen and (max-width : 568px)">
+	<script type="text/javascript" src="js/mobile.js"></script>
+</head>
+<body>
+	<div id="header">
+		<a href="acasa.html" class="logo">
+			<img src="images/logo.jpg" alt="">
+		</a>
+		<ul id="navigation">
+			<li>
+				<a href="acasa.html">acasa</a>
+			</li>
+			<li>
+				<a href="despre.html">despre</a>
+			</li>
+			<li>
+				<a href="poze.html">poze</a>
+			</li>
+			
+			<li class="selected">
+				<a href="contact.html">contact</a>
+			</li>
+			
+			<li>
+				<a href="login.php">login</a>
+			</li>
+			
+			<li>
+				<a href="register.php">register</a>
+			</li>
+			
+		</ul>
+	</div>
+	<div id="body">
+		<h1><span>Antrenori</span></h1>
+		<div>
+			<ul>
+				<li>
+					<a href="contact.html" class="figure">
+						<img src="images/antrenor1.jpg" width="376" height="350">
+					</a>
+					<div>
+						<h3>Radu Mihail</h3>
+						<p>
+						     In 2004 a absolvit Scoala de antrenori W.T.V Tennis Verband, a Federatiei de Tenis din Germania.
+							 A jucat 10 ani in liga de tenis germana intre anii 1998-2008.
+							  <br></br>
+							 
+							  Tel:   0744103077
+						   <br></br>
+							  E-mail:    radumihail@yahoo.com
+							  
+							  
+							  
+						</p>
+						
+					</div>
+				</li>
+				<li>
+					<a href="contact.html" class="figure">
+						<img src="images/antrenor2.jpg" width="376" height="350">
+					</a>
+					<div>
+						<h3>George Talpas</h3>
+						<p>
+							 Antrenor international ce preda lectii inclusiv cu vorbitori de limba germana si engleza. Locul 1234 la simplu in clasamentul ATP.
+
+La juniori a fost in primii 20 ETA (European Tennis Association) iar la 15 ani a inceput sa joace in turnee Futures ATP. A fost campion national la simplu in anul 1994 si campion national la proba de echipe in anul 1998 cu echipa BNR. 
+							 <br></br>
+							 
+							  Tel:   0744103112
+						   <br></br>
+							  E-mail:    georgetalpas@yahoo.com
+							  
+							 
+						</p>
+						
+					</div>
+				</li>
+				<li>
+					<a href="contact.html" class="figure">
+						<img src="images/antrenor3.jpg" width="376" height="350" >
+					</a>
+					<div>
+						<h3>Marius Usurel</h3>
+						<p>
+							Student la Facultatea de Educatie Fizica si Sport si Scoala Nationala de Antrenori.
+A practicat sportul de la varsta de 9 ani.
+
+Ca jucator de tenis a fost in primii 20 la categoria de varsta 14-16 ani si la varsta 16-18 ani.
+
+Ca jucator a fost in TOP 30 Seniori si in Top 800 ITF.
+							<br></br>
+							 
+							  Tel:   0748233077
+						   <br></br>
+							  E-mail:    mariususurel@yahoo.com
+							  
+						</p>
+						
+					</div>
+				</li>
+			</ul>
+		</div>
+	</div>
+	<div id="footer">
+		<div>
+			<p>&copy; Tenis Club Brasov</p>
+			<ul>
+				
+				
+				
+				
+			</ul>
+		</div>
+	</div>
+</body>
+</html>
