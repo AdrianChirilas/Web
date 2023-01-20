@@ -1,0 +1,82 @@
+<!doctype html>
+
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Tenis Club</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	
+</head>
+<body>
+	<div id="header">
+		<a href="acasa.html" class="logo">
+			<img src="images/logo.jpg" alt="">
+		</a>
+		<ul id="navigation">
+			<li class="selected">
+				<a href="acasa.html">acasa</a>
+			</li>
+			<li>
+				<a href="despre.html">despre</a>
+			</li>
+			<li>
+				<a href="poze.html">poze</a>
+			</li>
+			
+			<li>
+				<a href="contact.html">contact</a>
+			</li>
+			<li>
+				<a href="login.php">Login</a>
+			</li>
+			<li>
+				<a href="register.php">Register</a>
+			</li>
+		</ul>
+	</div>
+	<div id="body">
+		<div id="featured">
+			<img src="images/Tenis.png" alt="">
+			<div>
+				<h2>Te pregatim sa concurezi!</h2>
+				<span>Clubul nostru de tenis din Brasov</span>
+				<span>Tenis Club Brasov pentru campioni</span>
+				<span>Antreneaza-te cu noi</span>
+				<a href="despre.html" class="more">Despre Noi</a>
+			</div>
+		</div>
+		        
+		<ul>
+			<li>
+				<a href="contact.html">
+					<img src="images/antrenor1.jpg" alt="">
+					<span>Radu Mihail</span>
+				</a>
+			</li>
+			<li>
+				<a href="contact.html">
+					<img src="images/antrenor2.jpg" alt="">
+					<span>George Talpas</span>
+				</a>
+			</li>
+			<li>
+				<a href="contact.html">
+					<img src="images/antrenor3.jpg" alt="">
+					<span>Marius Usurel</span>
+				</a>
+			</li>
+		</ul>
+	</div>
+	<div id="footer">
+		<div>
+			<p>&copy;Tenis Club Brasov.</p>
+			<ul>
+				
+				
+			
+			</ul>
+		</div>
+	</div>
+</body>
+</html>
