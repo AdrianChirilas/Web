@@ -1,0 +1,103 @@
+<!doctype html>
+
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Beneficii ale tenisului</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	
+</head>
+<body>
+	<div id="header">
+		<a href="acasa.html" class="logo">
+			<img src="images/logo.jpg" alt="">
+		</a>
+		<ul id="navigation">
+			<li>
+				<a href="acasa.html">home</a>
+			</li>
+			<li>
+				<a href="despre.html">about</a>
+			</li>
+			<li>
+				<a href="poze.html">poze</a>
+			</li>
+			<li class="selected">
+				<a href="reguli.html">Reguli de Joc</a>
+			</li>
+			<li>
+				<a href="contact.html">contact</a>
+			</li>
+		</ul>
+	</div>
+	<div id="body">
+		<h1><span>BENEFICII ALE TENISULUI!</span></h1>
+		<div>
+			<img src="images/ben1.jpg" alt="">
+			<div class="article">
+				<h2>1. IMBUNĂTĂŢEŞTE ABILITĂŢILE DE COMUNICARE</h2>
+				<p>
+				Prin natura lui, tenisul este un sport social. Astfel încât, indiferent dacă te întâlneşti cu iubitul pentru o partidă de tenis sau te întâlneşti cu partenerul de dublu, viața ta socială va fi activă. Ştiai că o viaţă socială activă oferă longevitate? Cine nu vrea să trăiască mai mult doar jucând tenis cu prietenii?
+				</p>
+				<h2>2. OBŢINE VITAMINA D</h2>
+				<p>
+				Pe cât de important este să te dai cu cremă cu protecţie solară înainte de a ieşi pe teren să joci tenis, pe atât te important este faptul că primeşti vitamina D de la soare. Vitamina D ajuta la sedimentarea calciului în organism şi te protejează de osteoporoză.
+				</p>
+				<h2>3. ÎMBUNĂTĂŢEŞTE STAREA </h2>
+				<p>
+				Când faci exerciţii fizice, nivelul de serotonină din organism creşte. Serotonina este bună deoarece, prin intermediul ei, starea de bine este transmisă în creier. Jucând tenis constant, nivelul de serotonină va crește și odată cu ea și starea de bine.
+				</p>
+				
+				<h2>4. UN CONTROL LOCOMOTOR MAI BUN</h2>
+				<p>
+				Printre alte calităţi sportive, tenisul lucrează atât controlul brut cât şi controlul fin al abilităţiilor motorii. Controlul brut al abilități motorii include folosirea brațelor și picioarelor și abilitățile motorii fine includ utilizarea muşchilor mici găsiţi în mâinile tale.
+				</p>
+				
+				<h2>5. PIERDERE ÎN GREUTATE</h2>
+				<p>
+				Tenisul este un antrenament excelent pentru întreg corpul. Bineînţeles slăbitul ţine şi de numărul de calorii pe care le mănânci şi numărul de calorii pe care le consumi în plus peste exerciţiile făcute. Deci, atât timp cât scoţi zahărul din meniu şi celalte dulciuri, vei observa o diferenţă.
+				</p>
+				
+				<h2>6. DESTRESARE</h2>
+				<p>
+				Folosind tenisul ca o modalitate de destresare este o idee perfectă. Mulţi oameni văd jocul de „du-te vino” al tenisului similar cu meditaţia. Acest lucru este în totalitate adevărat când eşti prins în ritmul jocului.
+				</p>
+				
+				<h2>7. ÎMBUNĂTĂŢEŞTE ECHILIBRUL</h2>
+				<p>
+				Orice jucător de tenis poate confirma faptul că tenisul are o mulţime de opriri şi sprinturi. Fugi către fileu anticipând o lovitură, însă te poţi găsi în situaţia în care să schimbi direcţia în ultima secundă. Toate aceste mişcări cresc abilitatea de echilibru, deoarece îţi antrenează mușchii să reacţioneze şi să se adapteze rapid la diferite mişcări.
+				</p>
+				
+				<h2>8. CREŞTE FLEXIBILITATEA</h2>
+				<p>
+				Flexibilitatea funcţionează în ambele sensuri în tenis. Jucând tenis îţi poţi creşte flexibilitatea, iar crescându-ţi flexibilitatea poţi ajunge un jucător mai bun.
+				</p>
+				
+				<h2>9. PREVINE RISCUL BOLILOR DE INIMĂ</h2>
+				<p>
+				Bolile de inimă sunt motivul numărul unu al deceselor din rândul femeilor. Deci, orice putem face pentru a preveni bolile de inimă este important şi se pare că tenisul este o modalitate potrivită pentru a face asta. Jurnalul Britanic de Medicină Sportivă a analizat beneficiile de sănătate ale tenisului şi a descoperit că oamenii care joacă tenis au un procentaj mai mic de grăsimi în organism, mai multe lipide favorabile şi o formă fizică îmbunătăţită, toate acestea ducând la un risc mai scăzut al bolilor de inimă.
+				</p>
+				
+				<h2>10. TE DISTREZI</h2>
+				<p>
+				Acest ultim beneficiu este pentru toată lumea. Tenisul îţi dă voie să te relaxezi, să petreci timpul cu prietenii, chiar să îţi îmbunătăţeşti starea de spirit, deci distracţia este cu siguranţă un efect secundar al tenisului. Din punct de vedere fizic, distrându-te se eliberează endorfine, care pot alina durerea temporar.
+				</p>
+				
+			
+			</div>
+		</div>
+	</div>
+	<div id="footer">
+		<div>
+			<p>&copy; Tenis Club Brasov</p>
+			<ul>
+				
+				
+				
+				
+			</ul>
+		</div>
+	</div>
+</body>
+</html>
