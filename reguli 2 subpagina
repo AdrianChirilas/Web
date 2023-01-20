@@ -1,0 +1,90 @@
+<!doctype html>
+
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Reguli de Joc</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	
+</head>
+<body>
+	<div id="header">
+		<a href="acasa.html" class="logo">
+			<img src="images/logo.jpg" alt="">
+		</a>
+		<ul id="navigation">
+			<li>
+				<a href="acasa.html">acasa</a>
+			</li>
+			<li>
+				<a href="despre.html">despre</a>
+			</li>
+			<li>
+				<a href="poze.html">poze</a>
+			</li>
+			<li class="selected">
+				<a href="reguli.html">reguli de joc</a>
+			</li>
+			<li>
+				<a href="contact.html">contact</a>
+			</li>
+		</ul>
+	</div>
+	<div id="body">
+		<h1><span>Reguli de joc</span></h1>
+		<div>
+			<ul>
+				<li>
+					<a href="reguli-single-post.html" class="figure">
+						<img src="images/cum1.jpg" width="376" height="350">
+					</a>
+					<div>
+						<h3>Cum se joca tenis?</h3>
+						<p>
+							Jocul de tenis are o vechime mai mare de un secol, atunci când, mingea de tenis era lovită doar cu mână, ulterior cu o mănușă de piele, pentru protecția palmei, iar mai târziu i s-a aplicat un mâner adaptabil pentru o mai bună eficiență. Prin urmare, în acest fel s-a creat racheta de tenis.
+Citeşte întreaga ştire: Tenis pe înțelesul tuturor - care sunt regulile jocului de tenis
+						</p>
+						<a href="reguli-single-post.html" class="more">Citeşte mai mult</a>
+					</div>
+				</li>
+				<li>
+					<a href="reguli2-single-post.html" class="figure">
+						<img src="images/cum2.jpg" width="376" height="350">
+					</a>
+					<div>
+						<h3>Cum trebuie sa arate un teren de tenis?</h3>
+						<p>
+							 Suprafaţa terenului de tenis este o parte importantă a tenisului în sine şi a istoriei sale. Ca nici un alt sport, tenisul este jucat pe o mulţime de suprafeţe diferite, iar fiecare suprafaţă de joc schimbă complet aspectul, simţul şi viteza de joc, afectând totul, de la tacticile folosite, până la modul în care jucătorii se mişcă. 
+						</p>
+						<a href="reguli2-single-post.html" class="more">Citeşte mai mult</a>
+					</div>
+				</li>
+				<li>
+					<a href="reguli3-single-post.html" class="figure">
+						<img src="images/cum3.jpg" width="376" height="350" >
+					</a>
+					<div>
+						<h3>BENEFICII ALE TENISULUI!</h3>
+						<p>
+							Tenisul este un sport ce uneste povesti, reactii, emotii. Nu este niciodata prea tarziu sa te apuci sa tii racheta in mana, iar “sportul alb” poate sa fie de multe ori salvarea din abis, o perdea de siguranta.
+						</p>
+						<a href="reguli3-single-post.html" class="more">Citeşte mai mult</a>
+					</div>
+				</li>
+			</ul>
+		</div>
+	</div>
+	<div id="footer">
+		<div>
+			<p>&copy;Tenis Club Brasov  </p>
+			<ul>
+				
+				
+				
+				
+			</ul>
+		</div>
+	</div>
+</body>
+</html>
