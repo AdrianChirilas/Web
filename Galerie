@@ -1,0 +1,58 @@
+# Web<!doctype html>
+<!-- Website Template by freewebsitetemplates.com -->
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Poze</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	
+</head>
+<body>
+	<div id="header">
+		<a href="acasa.html" class="logo">
+			<img src="images/logo.jpg" alt="">
+		</a>
+		<ul id="navigation">
+			<li>
+				<a href="acasa.html">acasa</a>
+			</li>
+			<li>
+				<a href="despre.html">despre</a>
+			</li>
+			<li class="selected">
+				<a href="poze.html">poze</a>
+			</li>
+			<li>
+				<a href="reguli.html">reguli joc</a>
+			</li>
+			<li>
+				<a href="contact.html">contact</a>
+			</li>
+		</ul>
+	</div>
+	<div id="body">
+		<h1><span>Nu mai da vina pe vreme!</span></h1>
+		<div>
+			<img src="images/ter4.jpg" alt="">
+			<div class="article">
+				<h4>Teren de tenis acoperit</h4>
+				<p>
+				Nu mai poti da vina pe vreme! Terenurile noastre sunt perfect functionale fie ploaie, fie vant. Temperatura din timpul atrenamentelor tale este constanta pentru ca tu sa poti da tot ce ai mai bun. Afla mai multe despre clubul nostru.
+				</p>
+			</div>
+		</div>
+	</div>
+	<div id="footer">
+		<div>
+			<p>&copy; Tenis Club Brasov</p>
+			<ul>
+				
+				
+				
+				
+			</ul>
+		</div>
+	</div>
+</body>
+</html>
