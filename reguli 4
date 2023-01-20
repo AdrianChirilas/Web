@@ -1,0 +1,82 @@
+<!doctype html>
+
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Cum se joaca tenis?</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	
+</head>
+<body>
+	<div id="header">
+		<a href="acasa.html" class="logo">
+			<img src="images/logo.jpg" alt="">
+		</a>
+		<ul id="navigation">
+			<li>
+				<a href="acasa.html">home</a>
+			</li>
+			<li>
+				<a href="despre.html">about</a>
+			</li>
+			<li>
+				<a href="poze.html">poze</a>
+			</li>
+			<li class="selected">
+				<a href="reguli.html">Reguli de Joc</a>
+			</li>
+			<li>
+				<a href="contact.html">contact</a>
+			</li>
+		</ul>
+	</div>
+	<div id="body">
+		<h1><span>Cum se joca tenis?</span></h1>
+		<div>
+			<img src="images/regul1.jpg" alt="">
+			<div class="article">
+				<h2>Tenis pe înțelesul tuturor 
+				</h2>
+				<p>
+					Ce înseamnă Punct în tenis– Unitatea de bază în numărătoarea dintr-o partidă de tenis, care începe odată cu punerea mingii în joc și continuă până ce unul dintre jucători comite o greșeală;
+Citeşte întreaga ştire: Tenis pe înțelesul tuturor - care sunt regulile jocului de tenis
+				<br></br>
+				Ce înseamnă Ghem în tenis (Game) – Unitatea de scor, joc;
+Citeşte întreaga ştire: Tenis pe înțelesul tuturor - care sunt regulile jocului de tenis
+                 <br></br>
+				 Ce înseamnă Brec în tenis (Break) – Câștigarea unui game în serviciul adversarului;
+Citeşte întreaga ştire: Tenis pe înțelesul tuturor - care sunt regulile jocului de tenis
+				</p>
+				<p>
+					Ce înseamnă egalitate în tenis – Situație în care se realizează un rezultate egal, după care jucătorul va trebui să puncteze de două ori consecutiv pentru a câștiga game-ul.
+Citeşte întreaga ştire: Tenis pe înțelesul tuturor - care sunt regulile jocului de tenis  
+				</p>
+				<p>
+					Ce înseamnă avantaj în tenis (Advantage) – jucătorul care va face primul punct la scorul de 40-40 are avantaj (avantaj la serviciu), dacă punctul este câștigat de servant. În cazul în care punctul este câștigat de jucătorul care se află la primire, atunci este “avantaj la primire”.
+Citeşte întreaga ştire: Tenis pe înțelesul tuturor - care sunt regulile jocului de tenis
+				</p>
+				<p>
+				Un meci de tenis este cuprins dintr-un set de șase game-uri. La finalul acestora se va juca un tie break de 12 puncte. Este considerat set câștigător de jucătorul ori echipa de jucători care câștigă primul/prima la șase game-uri. În cazul în care ambele echipe au câștigat câte șase game-uri, atunci se va juca tie-break-u
+Citeşte întreaga ştire: Tenis pe înțelesul tuturor - care sunt regulile jocului de tenis
+				</p>
+				<p>
+				Cum se ține scorul în tie-break în tenis- Primul jucător care va câștiga șapte puncte, câștigă game-ul și set-ul. Scorul se ține: zero, 1,2, 3, 4, 5, 6, 7, cu condiția să fie diferență de două puncte față de adversar. Dacă este necesar, tie break-ul va continua până când va fie realizată diferența de două puncte între jucători.
+
+				</p>
+			</div>
+		</div>
+	</div>
+	<div id="footer">
+		<div>
+			<p>&copy; Tenis Club Brasov</p>
+			<ul>
+				
+				
+				
+				
+			</ul>
+		</div>
+	</div>
+</body>
+</html>
