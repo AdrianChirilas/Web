@@ -1,0 +1,76 @@
+<!doctype html>
+
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Despre Noi</title>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<link rel="stylesheet" type="text/css" href="css/mobile.css" media="screen and (max-width : 568px)">
+	<script type="text/javascript" src="js/mobile.js"></script>
+</head>
+<body>
+	<div id="header">
+		<a href="acasa.html" class="logo">
+			<img src="images/logo.jpg" alt="">
+		</a>
+		<ul id="navigation">
+			<li>
+				<a href="acasa.html">Acasa</a>
+			</li>
+			<li class="selected">
+				<a href="despre.html">despre</a>
+			</li>
+			<li>
+				<a href="poze.html">poze</a>
+			</li>
+			
+			<li>
+				<a href="contact.html">contact</a>
+			</li>
+			<li>
+				<a href="login.php">login</a>
+			</li>
+			<li>
+				<a href="register.php">register</a>
+			</li>
+		</ul>
+	</div>
+	<div id="body">
+		<h1><span>Tenis Club Brasov</span></h1>
+		<div>
+			<img src="images/teren.jpg" alt="">
+			<div class="article">
+				<h3>Viziunea Noastră</h3>
+				<p>
+					Sportul înseamnă sănătate, iar viziunea noastră este ca Tenis Club Brasov să devină baza sportivă care schimbă mentalităţi şi aduce un sport nobil, precum tensiul, în stilul de viaţă al constănţenilor.  
+				</p>
+				<h3>Misiunea noastră</h3>
+				<p>
+					Misiunea noastră este să venim în întâmpinarea iubitorilor de tenis din Brasov şi să le oferim condiţii de cea mai bună calitate ca să iţi poată urma pasiunea, să o dezvolte şi, dacă doresc, să ajungă la înaltă performanţă.
+				</p>
+				<h3>Valorile noastre</h3>
+				<p>
+					Pasiune – Ne place ceea ce facem şi prin urmare dăm 110% din capacitate să o facem bine. Suntem convinşi că aceasta este cheia succesului pentru a ajunge la performanţă;
+
+Seriozitate – Fără seriozitate în sport doar ne jucăm;
+
+Colaborare – Suntem deschişi şi flexibili. Doar împreună putem construi performanţa; Evoluţie – Avem un calendar, avem obiective şi multă voinţă să le îndeplinim. Nu batem pasul pe loc.
+				</p>
+				
+			</div>
+		</div>
+	</div>
+	<div id="footer">
+		<div>
+			<p>&copy; Tenis Club Brasov</p>
+			<ul>
+				
+				
+				
+				
+			</ul>
+		</div>
+	</div>
+</body>
+</html>
